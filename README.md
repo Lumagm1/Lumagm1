@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-██╗      ██╗   ██╗███╗   ███╗ █████╗
-██║      ██║   ██║████╗ ████║██╔══██╗
-██║      ██║   ██║██╔████╔██║███████║
-██║      ██║   ██║██║╚██╔╝██║██╔══██║
-███████╗ ╚██████╔╝██║ ╚═╝ ██║██║  ██║
-╚══════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+██╗      ██╗   ██╗███╗   ███╗ █████╗  ██████╗ ██╗   ██╗██╗
+██║      ██║   ██║████╗ ████║██╔══██╗██╔════╝ ██║   ██║██║
+██║      ██║   ██║██╔████╔██║███████║██║  ███╗██║   ██║██║
+██║      ██║   ██║██║╚██╔╝██║██╔══██║██║   ██║██║   ██║██║
+███████╗ ╚██████╔╝██║ ╚═╝ ██║██║  ██║╚██████╔╝╚██████╔╝██║
+╚══════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝
 ```
 
 *"The closer you get to the metal, the more control you have."*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Systems+%26+Embedded+Engineer-in-Training;Hardware+Whisperer+%F0%9F%94%A7;ML+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB3C6&center=true&vCenter=true&width=600&lines=Systems+%26+Embedded+Engineer-in-Training+%F0%9F%9B%A0%EF%B8%8F;Hardware+Whisperer+%F0%9F%94%A7;ML+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,14 +19,11 @@
 
 ## 👾 `whoami`
 
-```c
-typedef struct {
-    char  *name        = "Luma";
-    char  *status      = "Student & Lifelong Learner";
-    char  *focus[]     = { "Embedded Systems", "Cloud Computing", "ML & AI" };
-    bool   loves_hw    = true;
-    bool   night_owl   = true;
-} Developer;
+```
+Name    →  Luma Lumagui
+Status  →  Student & Lifelong Learner
+Focus   →  Embedded Systems  ·  Cloud Computing  ·  ML & AI
+Mood    →  Debugging something that was "working fine" yesterday
 ```
 
 > I operate somewhere between the silicon and the cloud — writing code that talks directly to hardware, and systems that scale beyond it. Still learning. Always building. 🛠️
@@ -44,22 +41,11 @@ typedef struct {
 
 ## 🛠️ Tech Arsenal
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logoColor=white)
-
-**Domains**
-
-```
-⚙️  Embedded Systems    ████████████░░░░  learning
-🤖  ML / AI             ████████░░░░░░░░  exploring  
-☁️  Cloud Computing     ██████░░░░░░░░░░  diving in
-🔩  Hardware Design     ████████████░░░░  learning
-```
+![C](https://img.shields.io/badge/C-F4A7B9?style=for-the-badge&logo=c&logoColor=333)
+![C++](https://img.shields.io/badge/C++-F4A7B9?style=for-the-badge&logo=cplusplus&logoColor=333)
+![Python](https://img.shields.io/badge/Python-B5D5F5?style=for-the-badge&logo=python&logoColor=333)
+![RISC-V](https://img.shields.io/badge/RISC--V-C9B8F5?style=for-the-badge&logo=riscv&logoColor=333)
+![Verilog](https://img.shields.io/badge/Verilog-FFDBA4?style=for-the-badge&logoColor=333)
 
 ---
 
@@ -87,7 +73,7 @@ I'm looking to collaborate on:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lumagm1)
+[![GitHub](https://img.shields.io/badge/GitHub-F4A7B9?style=for-the-badge&logo=github&logoColor=333)](https://github.com/Lumagm1)
 
 *"Any sufficiently advanced technology is indistinguishable from magic — I'm here to learn the magic."* 🔮
 
@@ -96,10 +82,10 @@ I'm looking to collaborate on:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lumagm1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumagm1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lumagm1&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumagm1&layout=compact&theme=rose_pine&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lumagm1&color=00f5ff&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Lumagm1&color=ffb3c6&style=flat-square&label=Profile+Views" />
 </div>

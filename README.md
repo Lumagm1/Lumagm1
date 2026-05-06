@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1&pause=99999&color=FFB3C6&center=true&vCenter=true&repeat=false&width=700&height=80&lines=MIKAIL-MIKO+LUMAGUI)](https://git.io/typing-svg)
+<img src="banner.svg" alt="LUMAGUI" />
 
 *"The closer you get to the metal, the more control you have."*
 
@@ -39,6 +39,7 @@ Mood    →  Debugging something that was "working fine" yesterday
 ![Python](https://img.shields.io/badge/Python-B5D5F5?style=for-the-badge&logo=python&logoColor=333)
 ![RISC-V](https://img.shields.io/badge/RISC--V-C9B8F5?style=for-the-badge&logo=riscv&logoColor=333)
 ![Verilog](https://img.shields.io/badge/Verilog-FFDBA4?style=for-the-badge&logoColor=333)
+![AVR](https://img.shields.io/badge/AVR-B5EAD7?style=for-the-badge&logoColor=333)
 
 ---
 
